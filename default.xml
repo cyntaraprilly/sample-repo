@@ -15,7 +15,7 @@
              remote="origin"/>
 
     <project path="sample-repo/third-sample-repo"
-             name="cyntaraprilly/third-sample-repo.git"
+             name="cyntaraprilly/three-sample-repo.git"
              remote="origin"/>
 
     <project path="sample-repo/fourth-sample-repo"
