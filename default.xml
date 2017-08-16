@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin"
+            fetch="https://github.com"/>
+
+    <default revision="master"
+             remote="origin"/>
+
+    <project path="sample-repo/first-sample-repo"
+             name="cyntaraprilly/first-sample-repo.git"
+             remote="origin"/>
+
+    <project path="sample-repo/second-sample-repo"
+             name="cyntaraprilly/second-sample-repo.git"
+             remote="origin"/>
+
+    <project path="sample-repo/third-sample-repo"
+             name="cyntaraprilly/third-sample-repo.git"
+             remote="origin"/>
+
+    <project path="sample-repo/fourth-sample-repo"
+             name="cyntaraprilly/fourth-sample-repo.git"
+             remote="origin"/>
+</manifest>
